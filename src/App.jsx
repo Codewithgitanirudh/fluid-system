@@ -16,7 +16,7 @@ function App() {
         </div>
 
         <div id='main'>
-          <img src={third} />
+          <img src={fourth} />
 
           <h1>C.R.I. PUMPS WINS THE NATIONAL ENERGY CONSERVATION AWARD 2018 for the 4th time.</h1>
 
@@ -33,7 +33,7 @@ function App() {
 
 
       <h3>INSTALLED OVER 10 LAKHS STAR RATED PUMPSETS ACROSS THE COUNTRY RESULTING IN A CUMULATIVE SAVING OF MORE THAN 9,000 MILLION UNITS OF POWER FOR THE NATION. </h3>
-      <img src={fourth} id='img3' />
+      <img src={third} id='img3' />
       <h4>Valves - Pumps - Pipes - IoT Drives & Controllers - Wires & Cables - Solar Systems - Motors </h4>
       <hr />
 
